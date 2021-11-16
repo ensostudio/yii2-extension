@@ -27,6 +27,13 @@
             "EnsoStudio\\Yii2Extension\\": "tests/"
         }
     },
+    extra: {
+        "bootstrap": "EnsoStudio\\Yii2Extension\\Extension",
+        "config": {
+            "id": "extension",
+            "env": "dev"
+        }
+    },
     "repositories": [
         {
             "type": "composer",
