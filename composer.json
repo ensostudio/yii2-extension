@@ -27,7 +27,7 @@
             "EnsoStudio\\Yii2Extension\\": "tests/"
         }
     },
-    extra: {
+    "extra": {
         "bootstrap": "EnsoStudio\\Yii2Extension\\Extension",
         "config": {
             "id": "extension",
